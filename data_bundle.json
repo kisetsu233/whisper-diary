@@ -16,9 +16,9 @@
           "sentiment": "Overweight",
           "context": "全球磷化铟衬底龙头，受益于AI光模块需求爆发，股价近90倍增长；拥有高纯铟提纯能力以应对中国出口管制，技术壁垒与供应链地位稳固。",
           "price": 123.78,
-          "currentPrice": 57.36,
-          "perfSinceDiary": "-53.7%",
-          "ytdPerf": "+242.2%",
+          "currentPrice": 57.77,
+          "perfSinceDiary": "-53.3%",
+          "ytdPerf": "+244.7%",
           "summary": "AXT, Inc. designs, develops, manufactures, and distributes compound and single element semiconductor substrates. The company provides indium phosphide for use in data center connectivity using light/lasers, high-speed data transfer in data centers, 5G communications, fiber optic lasers and detectors, consumer devices, passive optical networks, silicon photonics, photonic integrated circuits, thermo-photovoltaics, RF amplifier and switching, infrared light-emitting diode (LEDS) motion control, lidar for robotics and autonomous vehicles, and infrared thermal imaging. It also offers semi-insulating gallium arsenide (GaAs) substrates for use in Wi-Fi and IoT devices, transistors, direct broadcast television, power amplifiers, satellite communications, and solar cells; and semi-conducting GaAs substrates that are used in LEDs, screen displays using micro-LEDs, printer head lasers and LEDs, 3-D sensing using VCSELs, data center communication using VCSELs, sensors for industrial robotics/near-infrared sensors, laser machining, cutting and drilling, optical couplers, solar cells, night vision goggles, lidar for robotics and autonomous vehicles, and other lasers. In addition, the company provides germanium substrates for use in multi-junction solar cells for satellites, optical sensors and detectors, terrestrial concentrated photo voltaic cells, infrared detectors, and carrier wafer for LED. Further, it offers 6N+ and 7N+ purified gallium, boron trioxide, gallium-magnesium alloy, pyrolytic boron nitride (pBN) crucibles, and pBN insulating parts. It sells its products through direct salesforce in the United States, China, and Europe, as well as through independent sales representatives and distributors in Japan, Taiwan, Korea, and internationally. The company was formerly known as American Xtal Technology, Inc. and changed its name to AXT, Inc. in July 2000. AXT, Inc. was incorporated in 1986 and is headquartered in Fremont, California."
         },
         {
@@ -29,9 +29,9 @@
           "sentiment": "Overweight",
           "context": "拥有美国最大锌矿之一，副产高纯铟，并具备电子废弃物回收能力，是美国构建独立铟供应链的核心资产。",
           "price": 61.27,
-          "currentPrice": 60.09,
-          "perfSinceDiary": "-1.9%",
-          "ytdPerf": "+25.5%",
+          "currentPrice": 60,
+          "perfSinceDiary": "-2.1%",
+          "ytdPerf": "+25.3%",
           "summary": "Teck Resources Limited engages in research, exploration, development, processing, smelting, refining, and reclamation of mineral properties in Asia, the Americas, and Europe. It operates through Copper and Zinc segments. The company offers copper, zinc, and lead concentrates, as well as refined zinc, lead, and silver. It also produces lead, precious metals, molybdenum, fertilizers, and other metals; and sells refined metals or concentrates. In addition, it explores for gold. The company was formerly known as Teck Cominco Limited and changed its name to Teck Resources Limited in April 2009. Teck Resources Limited was founded in 1913 and is based in Vancouver, Canada."
         },
         {
@@ -146,9 +146,9 @@
           "sentiment": "Overweight",
           "context": "MOCVD设备双寡头之一，提供4/6英寸磷化铟外延设备，技术领先，订单持续增长。",
           "price": 58.64,
-          "currentPrice": 58.18,
-          "perfSinceDiary": "-0.8%",
-          "ytdPerf": "+90.5%",
+          "currentPrice": 58,
+          "perfSinceDiary": "-1.1%",
+          "ytdPerf": "+89.9%",
           "summary": "Veeco Instruments Inc., together with its subsidiaries, develops, manufactures, sells, and supports semiconductor and thin film process equipment primarily to make electronic devices in the United States, Europe, the Middle East, and Africa, China, Rest of the Asia-Pacific, and internationally. It offers laser annealing, ion beam deposition and etch, metal organic chemical vapor deposition, single wafer wet processing and surface preparation, molecular beam epitaxy, advanced packaging lithography, atomic layer deposition, and other deposition systems. The company's process equipment systems are used in the production of a range of microelectronic components, including logic, dynamic random-access memory, photonics devices, power electronics, radio frequency filters and amplifiers, magnetic heads for hard disk drives, and other semiconductor devices. In addition, it markets and sells its products to integrated device manufacturers and foundries; outsourced semiconductor assembly and test companies; and hard disk drive and photonics manufacturers, as well as research centers and universities. Veeco Instruments Inc. was founded in 1945 and is headquartered in Plainview, New York."
         },
         {
@@ -159,9 +159,9 @@
           "sentiment": "Overweight",
           "context": "全球磷化铟光学器件龙头，宣布新建6英寸晶圆厂以缓解产能短缺，技术与市场地位稳固。",
           "price": 970.7,
-          "currentPrice": 808.71,
+          "currentPrice": 808.58,
           "perfSinceDiary": "-16.7%",
-          "ytdPerf": "+109.5%",
+          "ytdPerf": "+109.4%",
           "summary": "Lumentum Holdings Inc. manufactures and sells optical and photonic products in the Americas, the Asia-Pacific, Europe, the Middle East, and Africa. It operates through two segments, Cloud & Networking and Industrial Tech. The Cloud & Networking segment offers optical and photonic chips, components, modules, and subsystems supplied to cloud data center operators, AI/ML infrastructure providers, and network equipment manufacturer customers that are building cloud data centers and network infrastructures. Its Industrial Tech segment provides short-pulse solid-state lasers, kilowatt-class fiber lasers, diode lasers, and gas lasers that serves the semiconductor device, solar cell, display, and electric vehicle and battery manufacturing markets. The company was incorporated in 2015 and is headquartered in San Jose, California."
         },
         {
@@ -172,9 +172,9 @@
           "sentiment": "Overweight",
           "context": "光通信与算力网络核心企业，获英伟达入股，受益于AI基础设施升级，股价创16年新高。",
           "price": 13.95,
-          "currentPrice": 11.54,
+          "currentPrice": 11.53,
           "perfSinceDiary": "-17.3%",
-          "ytdPerf": "+77.2%",
+          "ytdPerf": "+77.1%",
           "summary": "Nokia Oyj, together with its subsidiaries, provides mobile, fixed, and cloud network solutions in North and Latin America, Greater China, India, Asia Pacific, Europe, the Middle East, and Africa. It operates in four segments: Network Infrastructure, Mobile Networks, Cloud and Network Services, and Nokia Technologies. The company offers fixed network solutions, such as fiber and copper technologies, access infrastructure, in-home Wi-Fi solutions, and cloud and virtualization services; IP network solutions, which delivers IP edge routing and data center networking solutions for residential, mobile, enterprise, and cloud applications; and optical networks solutions, which provides optical transport networks for metro, regional, and long-haul applications. It also provides mobile technology products and services for radio access networks and microwave radio links for transport networks; and network management solutions, as well as network planning, optimization, network deployment, and technical support services. In addition, the company offers cloud and network services, including open, secure, automated, and scalable software and solutions; and 5G core, secure autonomous networks, private wireless and industrial edge, and network APIs. Further, it licenses intellectual property, including patents, technologies, and the Nokia brand. The company serves its products and services to defense communications energy and resources, enterprise and industrial campus, private networks, public sector, and transportation industries. Nokia Oyj was founded in 1865 and is headquartered in Espoo, Finland."
         },
         {
@@ -213,7 +213,7 @@
     "title": "2026 壹月·中旬篇  航天新时代",
     "analysis": {
       "fiscalInsight": "作者看好美国商业航天生态（SpaceX、意法半导体）与中国的商业航天潜力（中国卫星、蓝箭航天），倾向通过ETF布局而非高风险镜像代币，强调技术壁垒与真实业务支撑，规避蹭热点标的。",
-      "revisedText": "（一）满地黄金 （二）冉冉升起\n大家好，欢迎您来到山林微课，这里是山林微课堂。2026年，马斯克旗下的太空探索技术公司SpaceX即将上市的消息引发市场热议。据估计，其估值规模可达1.5万亿美元，逼近沙特阿美2019年创下的1.7万亿美元纪录。此前马斯克曾反对上市，认为资本市场浮躁制约其长期愿景；如今转向，主因是资金缺口——私募已无法支撑其宏图。市场普遍相信SpaceX值此高价，因其彻底颠覆了航天产业：可回收火箭将猎鹰9号的近地轨道发射成本从每千克5.45万美元降至120美元，降幅近20倍。这不仅让航天从政府专属变为商业常态，更构建起以星链为核心的生态帝国。\n截至2025年8月，SpaceX已发射超290次星链任务，在轨卫星近万颗，其中8000余颗已运营。为扩容，其计划将4400颗卫星从550公里降至480公里，并收购无线频谱，大幅提升偏远地区通信能力。星链的全球覆盖将直接替代传统电信网络——如马斯克曾为委内瑞拉提供免费宽带，证明其抗干扰能力。卫星通信的普及也将推动AI发展：数据上天、实时回传，为自动驾驶等应用提供新基础设施。此外，低成本入轨技术使太空能源部署成为可能。\nSpaceX虽未上市，但其估值已从2025年7月的400亿美元飙升至当前约600亿美元（每股300美元）。普通投资者可通过持有其投资方基金间接布局：如纽约证交所的封闭式基金DXYZ（Spartan Investment），其2025年9月底持仓中SpaceX占比高达23.3%；或纳斯达克ETF XOVR，费用率仅0.75%，明确长期持有SpaceX。而木头姐的ARKX太空ETF因重仓京东、阿里等非航天股，引发对其专业性的质疑。\n供应链方面，意法半导体（STM）是SpaceX关键供应商，十年交付约50亿颗射频芯片，2027年目标翻倍。其业务多元，不依赖单一客户，航天增长将显著增厚业绩。\n中国商业航天亦迎爆发期。国家已将商业航天纳入2025–2027年总体布局，设立专项监管机构，并加速抢占低轨轨道与频谱资源。蓝箭航天（拟科创板上市）主攻液氧甲烷可重复使用火箭，已获中国星网、千帆星座订单，但累计亏损48.4亿元，现金流承压。中国卫星（600118）背靠航天五院，专注小卫星研制，发射超200颗，是商业航天核心载体；但其市盈率高达2200倍，业绩未匹配估值，存在泡沫风险。部分“航天”概念股如航天信息、航天工程实无业务关联，却遭炒作，公司已多次澄清。\n推荐关注华夏国证航天航空ETF与永赢商用卫星通信ETF，前者覆盖光启技术、航天电子等真实产业链龙头，后者聚焦星链生态芯片（如瑞芯微）。警惕盘子小、军工占比过高或蹭热点的ETF，如万家国证航天航空ETF。投资需独立思考，聚焦真实技术与订单，远离盲目追高。",
+      "revisedText": "（一）满地黄金 （二）冉冉升起\n大家好，欢迎您来到山林微课，这里是山林微课堂。2026年，马斯克旗下的太空探索技术公司SpaceX即将上市的消息引发市场热议。据估计，其估值规模将达1.5万亿美元，逼近沙特阿美2019年创下的1.7万亿美元纪录。此前马斯克曾反对上市，认为资本市场浮躁；如今改弦更张，主因是资金缺口——其宏大愿景已超私募资本承载能力。市场普遍相信SpaceX值此高价，因其彻底颠覆了航天产业：可回收火箭将猎鹰9号单次发射成本从5000万美元降至约1500万美元，载荷入轨成本骤降近20倍。更关键的是，SpaceX已构建“航天+通信+AI+能源”生态帝国——星链卫星在轨数量近万颗，覆盖全球，并通过降低轨道高度、收购频谱资源强化通信能力。其卫星网络可绕过地面基建，在战乱地区提供稳定连接，直接威胁传统电信业。同时，太空数据回传将重塑AI训练范式，无人驾驶、太空能源等未来场景亦由此奠基。SpaceX股价已从2025年7月的212美元飙升至300美元，上市后潜力巨大。\n\n但直接投资镜像代币风险极高——它仅是对赌平台的衍生品，无股权、无监管。更稳健的方式是通过基金布局：如纽约证交所的封闭式基金DXYZ（Spartan Investment），其23.3%持仓为SpaceX，专注未上市科技巨头；纳斯达克ETF XOVR（太空探索基金），费用率仅0.75%，明确长期持有SpaceX。而木头姐的ARKX基金因重仓京东、阿里等非航天股，被质疑专业性。\n\n供应链方面，意法半导体（STM）是SpaceX关键芯片供应商，十年交付超50亿颗射频芯片，业务多元且稳定。中国商业航天亦迎爆发期：国家已将商业航天纳入顶层设计，设立专项司局，并加速低轨频谱占位。蓝箭航天（拟科创板上市）凭借朱雀三号可重复火箭技术获星网、千帆星座订单，但累计亏损48亿元，现金流承压。中国卫星（600118）背靠航天五院，主导小卫星研制，但市盈率超2200倍、持续亏损，涨幅多属泡沫。航天信息等“名字股”被澄清无业务关联仍遭炒作，风险极高。\n\n推荐关注：华夏国证航天航空ETF（覆盖光启技术、中国卫星、航天电子）与永赢商用卫星通信ETF（重仓中国卫星、瑞芯微），前者兼顾军工，后者聚焦芯片与通信。警惕盘子小、持仓模糊的ETF如万家航天航空ETF。切记：不荐股，重研究，远离蹭热点，专注真实技术与订单支撑的标的。",
       "assets": [
         {
           "ticker": "STM",
@@ -221,11 +221,11 @@
           "category": "US Equities",
           "sector": "Technology",
           "sentiment": "Overweight",
-          "context": "SpaceX关键芯片供应商，十年交付超50亿颗射频芯片，航天业务增长明确，且客户多元（如泰雷兹、欧洲通信卫星），业绩具备长期支撑。",
+          "context": "SpaceX关键芯片供应商，十年交付超50亿颗射频芯片，航天业务增长明确，且客户多元（欧洲通信卫星、泰雷兹），非单一依赖SpaceX，具备长期增长潜力。",
           "price": 29.29,
-          "currentPrice": 70.58,
-          "perfSinceDiary": "+140.9%",
-          "ytdPerf": "+158.9%",
+          "currentPrice": 70.36,
+          "perfSinceDiary": "+140.2%",
+          "ytdPerf": "+158.1%",
           "summary": "STMicroelectronics N.V., together with its subsidiaries, designs, develops, manufactures, and sells semiconductor products in Europe, the Middle East, Africa, the Americas, and the Asia Pacific. The company operates through Analog products, MEMS and Sensors Group (AM&S); Power and Discrete products (P&D); Embedded Processing (EMP); and RF Products (D&RF) segments. It offers industrial application-specific integrated circuits (ASICs) and application-specific standard products (ASSPs); power management solutions; custom analog ICs, wireless charging solutions; galvanic isolated gate and LED drivers; converters, transistors, intelligent power switches, clocks and timers, comparators, and current-sense amplifiers; micro-electro-mechanical systems (MEMS) sensors, including accelerometers, gyroscopes, magnetic sensors, pressure, temperature, presence detection, biosensors, machine learning, and edge AI processing smart sensors, as well as thermal and piezoelectric actuators; and optical sensing solutions. The company also provides silicon MOSFETs, SiC MOSFETs, IGBTs, thyristors, rectifiers, and power modules and bipolar transistors; microcontrollers, and automotive microcontrollers and secured; radio frequency (RF) communications and ASICs; car infotainment products; ultra-wide band and radar systems; and Connected Security Products; and automotive driver assistance systems. It serves automotive, industrial, personal electronics and communications equipment, and computers and peripherals markets. STMicroelectronics N.V. was incorporated in 1987 and is headquartered in Schiphol, the Netherlands."
         },
         {
@@ -234,7 +234,7 @@
           "category": "US Equities",
           "sector": "Technology",
           "sentiment": "Overweight",
-          "context": "估值达1.5万亿美元，凭借可回收火箭颠覆航天成本结构，构建星链通信+AI+能源生态，虽未上市但市场预期极强，是商业航天核心标的。",
+          "context": "估值超万亿，凭借可回收火箭颠覆航天成本结构，构建星链通信+AI数据回传+太空能源生态，上市预期强烈，市场普遍看好其长期价值。",
           "price": 150,
           "currentPrice": 150,
           "perfSinceDiary": "+0.0%",
@@ -242,12 +242,12 @@
           "summary": ""
         },
         {
-          "ticker": "600118.SS",
+          "ticker": "600118",
           "name": "中国卫星",
           "category": "China Equities",
           "sector": "Technology",
           "sentiment": "Neutral",
-          "context": "背靠航天五院，小卫星研制能力领先，是国家商业航天核心载体；但市盈率超2200倍、持续亏损，估值泡沫明显，需谨慎看待短期涨幅。",
+          "context": "背靠航天五院，小卫星研制领先，但市盈率超2200倍、持续亏损，涨幅属泡沫驱动，技术有优势但商业化与盈利前景存疑。",
           "price": 107.01,
           "currentPrice": 82.13,
           "perfSinceDiary": "-23.3%",
@@ -260,7 +260,7 @@
           "category": "China Equities",
           "sector": "Technology",
           "sentiment": "Neutral",
-          "context": "中国商业火箭第一股候选，获星网与千帆星座订单，技术突破显著；但累计亏损48亿元、现金流紧张，IPO后能否盈利存疑。",
+          "context": "中国商业火箭第一股候选，获星网订单，技术突破显著，但累计亏损48亿元、现金流紧张，IPO后能否盈利仍存重大不确定性。",
           "price": 150,
           "currentPrice": 150,
           "perfSinceDiary": "+0.0%",
@@ -268,12 +268,12 @@
           "summary": ""
         },
         {
-          "ticker": "RCH",
+          "ticker": "RKW",
           "name": "瑞芯微",
           "category": "China Equities",
           "sector": "Technology",
           "sentiment": "Overweight",
-          "context": "自研芯片与相控阵天线应用于卫星互联网，同时布局智能驾驶，获比亚迪等头部客户定点，是星链生态关键硬件供应商。",
+          "context": "自研芯片与相控阵天线应用于卫星互联网，同时布局智能驾驶，获比亚迪等头部客户定点，是商业航天与AI硬件融合的核心标的。",
           "price": 150,
           "currentPrice": 150,
           "perfSinceDiary": "+0.0%",
@@ -300,9 +300,9 @@
           "sentiment": "Overweight",
           "context": "作者认为英伟达是人形机器人领域的核心算力提供商，通过Jetson Thor平台与Isaac Gato生态构建高壁垒，是物理AI发展的最大受益者，明确表达强烈看好。",
           "price": 187.89,
-          "currentPrice": 211.83,
-          "perfSinceDiary": "+12.7%",
-          "ytdPerf": "+12.3%",
+          "currentPrice": 212.02,
+          "perfSinceDiary": "+12.8%",
+          "ytdPerf": "+12.4%",
           "summary": "NVIDIA Corporation operates as a data center scale AI infrastructure company in the United States, Taiwan, China, Hong Kong, Europe, and internationally. It operates through Compute & Networking, and Graphics segments. The Compute & Networking segment provides data center accelerated computing and networking platforms and artificial intelligence solutions and software, and automotive platforms and autonomous and electric vehicle solutions, including software. The Graphics segment offers GeForce GPUs for gaming and PCs; Quadro/NVIDIA RTX GPUs for enterprise workstation graphics. The company's products are used in gaming, professional visualization, data center, and automotive markets. It sells its products to original equipment manufacturers, original device manufacturers, system integrators and distributors, independent software vendors, cloud service providers, add-in board manufacturers, distributors, automotive manufacturers and tier-1 automotive suppliers, and other ecosystem participants. NVIDIA Corporation has a strategic collaboration with Palantir Technologies Inc. to deliver an intelligent engine for running NVIDIA AI and Nemotron open models in sovereign environments. NVIDIA Corporation was incorporated in 1993 and is headquartered in Santa Clara, California."
         },
         {
@@ -382,9 +382,9 @@
           "sentiment": "Overweight",
           "context": "美国政府禁令推动本土无人机替代，虹猫控股的D22无人机获军方认证，具备民用与军用双重场景，且布局无人艇，订单增长预期明确。",
           "price": 7.79,
-          "currentPrice": 8.8,
-          "perfSinceDiary": "+13.0%",
-          "ytdPerf": "-3.9%",
+          "currentPrice": 8.79,
+          "perfSinceDiary": "+12.8%",
+          "ytdPerf": "-4.1%",
           "summary": "Red Cat Holdings, Inc., together with its subsidiaries, provides drone and robotic solutions for defense, national security, and commercial applications in the United States. The company designs and manufactures small and tactical unmanned aircraft systems (UAS), such as BLACK WIDOW, a short-range reconnaissance war fighter with selectable integrated AI software capabilities; TEAL 2, a blue UAS product of defense used by combat soldiers, police officers, firefighters, wildlife managers, and industrial inspectors; and FANG, a first-person view small UAS. It also develops and produces long-endurance, vertical takeoff, and landing fixed-wing unmanned aircraft systems designed for extended-range intelligence, surveillance, and reconnaissance missions, such as THE EDGE 130. In addition, the company develops BLUE OPS, a battle-tested uncrewed surface vessel weapons system. Further, it provides FANG FPV DRONE, part of ARACHNID family of unmanned intelligence. Red Cat Holdings, Inc. is based in South Salt Lake, Utah."
         },
         {
@@ -408,9 +408,9 @@
           "sentiment": "Overweight",
           "context": "昂达斯加速美国本土化生产，Q3营收激增6倍，并聘请退役陆军将领拓展军方订单，具备明确的军用转型路径。",
           "price": 8.99,
-          "currentPrice": 7.36,
-          "perfSinceDiary": "-18.1%",
-          "ytdPerf": "-33.2%",
+          "currentPrice": 7.34,
+          "perfSinceDiary": "-18.4%",
+          "ytdPerf": "-33.4%",
           "summary": "Ondas Inc. provides private wireless, drone, and automated data solutions in the United States and internationally. It operates through the Ondas Networks and Ondas Autonomous Systems segments. The company offers Counter-UAS (CUAS) and site protection systems, including iron drone raider, a fully autonomous interceptor drone system for neutralizing small hostile drones; sentrycs CoRF, Cyber/RF-based CUAS platform for detection, identification, tracking, and mitigation of unauthorized drones; optimus system, fully autonomous drone platform for continuous security, surveillance, and mission-critical data collection; 4M defense, supporting missions related to demining and clearing land of unexploded ordnance; roboteam, UGVs and tactical ground robotics; apeiro motion, autonomy and mobility software for robotic platforms, enhancing navigation and operational effectiveness; and loitering munition systems, is a one way drone for a variety of missions including ISR defense and strike. It also offers FullMAX Software-Defined Radio Platform, a patented SDR platform for secure, private, wide-area broadband networks, enabling mission-critical communications; software and hardware maintenance agreements, extended software and hardware maintenance contracts, including ongoing support, security upgrades, and feature enhancements; licensing/royalties, licensing of FullMAX software and technology for integration into partner hardware and software platforms; and ancillary services, wireless network design, systems engineering, radio frequency planning, software configuration, product training, installation, onsite support, and engineering/product development. It serves rail, electric utilities, oil and gas, public safety, government, and other industrial applications. The company was formerly known as Ondas Holdings Inc. and changed its name to Ondas Inc. in January 2026. Ondas Inc. was incorporated in 2014 and is headquartered in West Palm Beach, Florida."
         },
         {
@@ -421,9 +421,9 @@
           "sentiment": "Overweight",
           "context": "奎托斯为美军独家无人靶机供应商，SQ58A可作F-35僚机执行集群作战，长期绑定军方需求，技术与生态优势稳固。",
           "price": 75.98,
-          "currentPrice": 49.91,
-          "perfSinceDiary": "-34.3%",
-          "ytdPerf": "-37.0%",
+          "currentPrice": 49.8,
+          "perfSinceDiary": "-34.5%",
+          "ytdPerf": "-37.2%",
           "summary": "Kratos Defense & Security Solutions, Inc., a technology company, provides technology, hardware, products, system, and software for the defense, national security, and commercial markets in the United States, other North America, the Asia Pacific, the Middle East, Europe, and Internationally. The company operates through Kratos Government Solutions and Unmanned Systems segments. It offers virtualized ground systems for satellites and space vehicles, including software for command and control, telemetry, and tracking and control; jet powered unmanned aerial drone systems and hypersonic vehicles and rocket systems; propulsion systems for drones, missiles, loitering munitions, supersonic systems, spacecraft and launch systems, command, control, communication, computing, combat, and intelligence surveillance and reconnaissance; and microwave electronic products for missile, radar, missile defense, space, and satellite; and counter unmanned aircraft systems, directed energy, communication and other systems, and virtual and augmented reality training systems for the warfighter. The company primarily serves national security-related agencies, the U.S. Department of Defense, intelligence and classified agencies, international government agencies, and domestic and international commercial customers. Kratos Defense & Security Solutions, Inc. was formerly known as Wireless Facilities, Inc. and changed its name to Kratos Defense & Security Solutions, Inc. in August 1999. Kratos Defense & Security Solutions, Inc. was incorporated in 1994 and is headquartered in San Diego, California."
         },
         {
@@ -434,9 +434,9 @@
           "sentiment": "Overweight",
           "context": "小特朗普担任顾问并持股，直接受益于政府政策倾斜，获美军及供应链订单，虽亏损但订单增长可望扭转业绩。",
           "price": 11.91,
-          "currentPrice": 18.7,
-          "perfSinceDiary": "+57.0%",
-          "ytdPerf": "+37.8%",
+          "currentPrice": 18.63,
+          "perfSinceDiary": "+56.4%",
+          "ytdPerf": "+37.3%",
           "summary": "Unusual Machines, Inc. engages in the commercial drone industry. The company offers small drones and essential components. It distributes their products through B2B sale, e-commerce site, and retail channel. The company has a strategic collaboration with Lantronix Inc. for the development of autonomous drone components integrating edge AI compute with flight control systems. The company was formerly known as AerocarveUS Corporation and changed its name to Unusual Machines, Inc. in July 2022. Unusual Machines, Inc. was incorporated in 2019 and is headquartered in Orlando, Florida."
         },
         {
@@ -447,9 +447,9 @@
           "sentiment": "Overweight",
           "context": "反无人机技术领先，激光武器成本极低、适配性强，在俄乌实战中验证有效性，符合美军低成本防御战略。",
           "price": 33.95,
-          "currentPrice": 44.44,
-          "perfSinceDiary": "+30.9%",
-          "ytdPerf": "+28.3%",
+          "currentPrice": 44.28,
+          "perfSinceDiary": "+30.4%",
+          "ytdPerf": "+27.8%",
           "summary": "Leonardo DRS, Inc., together with its subsidiaries, provides defense electronic products and systems, and military support services worldwide. It operates through Advanced Sensing and Computing and Integrated Mission Systems segments. The Advanced Sensing and Computing segment designs, develops, and manufacture sensing and network computing technology that enables real-time situational awareness required for enhanced operational decision making and execution; and offers sensing capabilities span applications, such as missions requiring advanced detection, precision targeting and surveillance sensing, long range electro-optic/infrared, signals intelligence, and other intelligence systems including electronic warfare, ground vehicle sensing, active electronically scanned array tactical radars, dismounted soldier, and space sensing. This segment also provides network computing, which are utilized across a range of mission applications, such as platform computing on ground and shipboard for advanced battle management, combat systems, radar, command and control, tactical networks, tactical computing, and communications. The Integrated Mission Systems segment offers electrical propulsion systems, which includes power conversion, control, distribution, and propulsion systems, as well as power dense permanent magnet motors, energy storage systems, associated rugged and compact power conversion, electrical actuation systems, as well as advanced thermal management technologies, motor controllers, and instrumentation and control equipment. Leonardo DRS, Inc. was incorporated in 1968 and is based in Arlington, Virginia. Leonardo DRS, Inc. operates as a subsidiary of Leonardo US Holding, LLC"
         },
         {
@@ -460,9 +460,9 @@
           "sentiment": "Overweight",
           "context": "AI作战平台深度绑定美军与乌克兰，软件赋能多款无人机系统，创始人与特朗普关系密切，营收与利润高速增长。",
           "price": 180.84,
-          "currentPrice": 135.23,
-          "perfSinceDiary": "-25.2%",
-          "ytdPerf": "-19.4%",
+          "currentPrice": 134.89,
+          "perfSinceDiary": "-25.4%",
+          "ytdPerf": "-19.6%",
           "summary": "Palantir Technologies Inc. builds and deploys software platforms for the intelligence community to assist in counterterrorism investigations and operations in the United States, the United Kingdom, and internationally. It provides Palantir Gotham integrates with other platforms for defense offerings which enables users to see, understand, and act in the modern battlespace; operations centers to the tactical edge; integrating data from domains and sensors in near real-time; and situational awareness and accelerating operational decision-making, as well as facilitates the hand-off between analysts and operational users, helping operators plan and execute real-world responses to threats that have been identified within the platform. The company also offers Palantir Foundry, a platform that helps organizations operate by creating a central operating system for their data; and allows individual users to integrate and analyze the data they need in one place. In addition, it provides Palantir Apollo, a software that delivers software and updates across the business, as well as enables customers to deploy their software virtually in any environment; and Palantir Artificial Intelligence Platform that provides unified access to open-source, self-hosted, and commercial large language models (LLMs) that can transform structured and unstructured data into LLM-understandable objects and can turn organizations' actions and processes into tools for humans and LLM-driven agents. The company also has a strategic partnership with Ondas Inc. to develop and deploy AI-enabled operational capabilities to scale stratospheric, aerial, and land-based ISR missions. The company has a strategic collaboration with NVIDIA to deliver an intelligent engine for running NVIDIA AI and Nemotron open models in sovereign environments. The company was incorporated in 2003 and is headquartered in Aventura, Florida."
         },
         {
