@@ -1,0 +1,18 @@
+[
+  {
+    "id": "book-1",
+    "title": "聪明的投资者",
+    "author": "本杰明·格雷厄姆",
+    "status": "Reading",
+    "coverColor": "linear-gradient(135deg, #3A6073, #3A6073)",
+    "notes": "<b>核心要点：</b><br>1. 区分投资与投机：投资是经过详尽分析，确保本金安全并获得满意回报的行为。<br>2. 安全边际（Margin of Safety）：这是投资成功的基石。以低于内在价值的价格购买资产。"
+  },
+  {
+    "id": "book-2",
+    "title": "股票大作手回忆录",
+    "author": "爱德温·勒菲弗",
+    "status": "Wishlist",
+    "coverColor": "linear-gradient(135deg, #8E0E00, #1F1C18)",
+    "notes": "<b>核心要点：</b><br>1. 市场永远不会错，错的只有人的看法。<br>2. 投机是一场对抗人性的游戏，必须控制贪婪和恐惧。"
+  }
+]
