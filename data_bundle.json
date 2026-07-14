@@ -223,9 +223,9 @@
           "sentiment": "Overweight",
           "context": "SpaceX关键芯片供应商，十年交付超50亿颗射频芯片，航天业务增长明确，且客户多元（欧洲通信卫星、泰雷兹），非单一依赖SpaceX，具备长期增长潜力。",
           "price": 29.29,
-          "currentPrice": 70.36,
-          "perfSinceDiary": "+140.2%",
-          "ytdPerf": "+158.1%",
+          "currentPrice": 70.41,
+          "perfSinceDiary": "+140.4%",
+          "ytdPerf": "+158.3%",
           "summary": "STMicroelectronics N.V., together with its subsidiaries, designs, develops, manufactures, and sells semiconductor products in Europe, the Middle East, Africa, the Americas, and the Asia Pacific. The company operates through Analog products, MEMS and Sensors Group (AM&S); Power and Discrete products (P&D); Embedded Processing (EMP); and RF Products (D&RF) segments. It offers industrial application-specific integrated circuits (ASICs) and application-specific standard products (ASSPs); power management solutions; custom analog ICs, wireless charging solutions; galvanic isolated gate and LED drivers; converters, transistors, intelligent power switches, clocks and timers, comparators, and current-sense amplifiers; micro-electro-mechanical systems (MEMS) sensors, including accelerometers, gyroscopes, magnetic sensors, pressure, temperature, presence detection, biosensors, machine learning, and edge AI processing smart sensors, as well as thermal and piezoelectric actuators; and optical sensing solutions. The company also provides silicon MOSFETs, SiC MOSFETs, IGBTs, thyristors, rectifiers, and power modules and bipolar transistors; microcontrollers, and automotive microcontrollers and secured; radio frequency (RF) communications and ASICs; car infotainment products; ultra-wide band and radar systems; and Connected Security Products; and automotive driver assistance systems. It serves automotive, industrial, personal electronics and communications equipment, and computers and peripherals markets. STMicroelectronics N.V. was incorporated in 1987 and is headquartered in Schiphol, the Netherlands."
         },
         {
@@ -235,11 +235,11 @@
           "sector": "Technology",
           "sentiment": "Overweight",
           "context": "估值超万亿，凭借可回收火箭颠覆航天成本结构，构建星链通信+AI数据回传+太空能源生态，上市预期强烈，市场普遍看好其长期价值。",
-          "price": 150,
-          "currentPrice": 150,
+          "price": 138.96,
+          "currentPrice": 138.96,
           "perfSinceDiary": "+0.0%",
           "ytdPerf": "+0.0%",
-          "summary": ""
+          "summary": "Space Exploration Technologies Corp. provides satellite-based broadband services in the United States, Ireland, Canada, and internationally. The company's Connectivity segment operates a high-speed, low-latency broadband network powered by various Starlink satellites in low-earth orbit, delivering connectivity to various consumer, enterprise, and government customers through its Starlink offering. Its Space segment designs, manufactures, and launches reusable rockets to provide access to space. It offers launch services for the deployment of payloads to intended orbits for commercial and government customers utilizing Falcon 9 and Falcon Heavy; and launch and development for the development of spacecraft and the provision of launch and mission services for government agency space programs utilizing Falcon 9, Falcon Heavy, Starship, and Dragon. The company's AI segment operates a vertically integrated AI platform spanning a frontier LLM Grok; AI solutions for consumer and enterprise customers; X, a real-time information, entertainment, and free speech platform; and AI computational infrastructure. The company was founded in 2002 and is based in Starbase, Texas."
         },
         {
           "ticker": "600118",
