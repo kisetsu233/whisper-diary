@@ -14,5 +14,13 @@
     "status": "Wishlist",
     "coverColor": "linear-gradient(135deg, #8E0E00, #1F1C18)",
     "notes": "<b>核心要点：</b><br>1. 市场永远不会错，错的只有人的看法。<br>2. 投机是一场对抗人性的游戏，必须控制贪婪和恐惧。"
+  },
+  {
+    "id": "book-1784065797090",
+    "title": "期货市场技术分析",
+    "author": "约翰 墨菲",
+    "status": "Reading",
+    "coverColor": "linear-gradient(135deg, #3A6073, #3A6073)",
+    "notes": "开始写下你的精读笔记吧..."
   }
 ]
