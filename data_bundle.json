@@ -296,9 +296,9 @@
           "sentiment": "Neutral",
           "context": "背靠航天五院，小卫星研制龙头，但市盈率超2200倍、持续亏损，估值泡沫显著。",
           "price": 107.01,
-          "currentPrice": 63.11,
-          "perfSinceDiary": "-41.0%",
-          "ytdPerf": "-36.5%",
+          "currentPrice": 62.52,
+          "perfSinceDiary": "-41.6%",
+          "ytdPerf": "-37.1%",
           "summary": "China Spacesat Co.,Ltd. engages in the research and development, design, manufacture, sale, and information servicing of aerospace technology applications and related products. It also manufactures and sells satellite application technology equipment, as well as provides satellite application services. The company was founded in 1997 and is based in Beijing, China. China Spacesat Co.,Ltd. operates as a subsidiary of China Academy of Space Technology."
         },
         {
@@ -309,9 +309,9 @@
           "sentiment": "Overweight",
           "context": "自研相控阵芯片应用于卫星互联网，获比亚迪、滴滴等车规认证，是星链生态关键硬件供应商。",
           "price": 45.39,
-          "currentPrice": 22.26,
-          "perfSinceDiary": "-51.0%",
-          "ytdPerf": "-51.2%",
+          "currentPrice": 22.05,
+          "perfSinceDiary": "-51.4%",
+          "ytdPerf": "-51.6%",
           "summary": "Sansec Technology Co., Ltd. engages in the research, development, and production of commercial cryptographic products and solutions for internet information security in China. The company develops PCI-E HSM, a cryptographic hardware device that enables data confidentiality, integrity, and other cryptographic functions through digital signature and data encryption; Cloud HSM that provides multiple authentication mechanisms based on PIN, and digital certificate; and General Purpose HSM, a cryptographic device, which offers security guarantee services for the development of social informatization. It also offers Financial HSM cryptographic equipment for cryptography-based protection for ICs, such as social security cards for inter-bank transactions in the financial system; and Sansec HSM Cryptographic Module, a cryptographic device used for financial, e-government, e-commerce, and enterprise information systems. In addition, it provides typical financial solutions, big data security solutions, and internet of vehicle solutions. The company was founded in 2008 and is based in Beijing, China."
         },
         {
@@ -322,9 +322,9 @@
           "sentiment": "Underweight",
           "context": "中国商业火箭第一股候选，获国家基金支持，但累计亏损超48亿元，现金流紧张，商业化路径存疑。",
           "price": 10,
-          "currentPrice": 9,
-          "perfSinceDiary": "-10.0%",
-          "ytdPerf": "-10.1%",
+          "currentPrice": 8.92,
+          "perfSinceDiary": "-10.8%",
+          "ytdPerf": "-10.9%",
           "summary": "Sinotherapeutics Inc., a specialty pharmaceutical company, research, develops, manufactures, and commercializes generic and formulation products in China. The company's products are indicated for infection, oncology and rheumatology, gastroenterology and metabolism, neurology, cardiology, and nephrology. It offers posaconazole delayed-release tablets; olaparib, exemestane, and tofacitinib extended-release tablets; and mesalamine delayed-release, dapagliflozin and metformin hydrochloride sustained-release, sitagliptin and metformin hydrochloride sustained-release tablets, and ursodeoxycholic ACID Capsules. The company also provides bupropion hydrochloride extended-release tablets, and paroxetine and pregabalin extended-release tablets; propafenone hydrochloride extended-release capsules; and sevelamer carbonate tablets. Sinotherapeutics Inc. was founded in 2012 and is headquartered in Shanghai, China."
         }
       ]
@@ -373,9 +373,9 @@
           "sentiment": "Neutral",
           "context": "三花智控与特斯拉深度绑定，具备执行器技术延伸能力，但机器人业务当前对营收贡献近乎为零，业绩增长依赖传统业务，作者认为其前景看好但需时间验证。",
           "price": 59,
-          "currentPrice": 48.8,
-          "perfSinceDiary": "-17.3%",
-          "ytdPerf": "-17.3%",
+          "currentPrice": 50.1,
+          "perfSinceDiary": "-15.1%",
+          "ytdPerf": "-15.1%",
           "summary": "Hangzhou Tigermed Consulting Co., Ltd, together with its subsidiaries, provides contract research organization services in the People's Republic of China and internationally. The company offers clinical trial operation services, such as clinical pharmacology, registration and regulatory affairs, scientific affairs, medical translation, pharmacovigilance, real-world research, third-party auditing and training, etc. for innovative drugs, generic drugs, and medical devices, as well as supporting services directly related to clinical trials, including clinical operation, clinical trials, and clinical trials management. It also provides clinical trial related and laboratory services in the drug development process comprising data management and statistical analysis, clinical trial site management, subject recruitment, medical imaging, and laboratory services. In addition, the company offers preclinical development services, including medicinal chemistry, compound screening, DMPK, safety and toxicology, bioanalytical, and formulation research and development services; and clinical development services, such as medical writing, clinical monitoring, regulatory affairs, data management and statistical analysis, decentralized clinical trials, clinical development strategy, site management, medical device/in vitro diagnostics, multi-region clinical trial, and vaccine clinical trial services. Further, it provides medical imaging, pharmacovigilance, medical translation, quality assurance, GMP and medical device consulting, central laboratories, functional services, recruitment management, EDC cloud-based system, and remote follow-up center services; and post-marketing clinical research solutions, such as site identification and selection, central monitoring, project team management, vendor management, and SAS project management services. Hangzhou Tigermed Consulting Co., Ltd was incorporated in 2004 and is headquartered in Hangzhou, the People's Republic of China."
         },
         {
